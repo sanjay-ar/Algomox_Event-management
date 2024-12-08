@@ -10,6 +10,8 @@ This project was independently developed by:
 ## About the Project
 The **S.S Event Management System** is a desktop application designed for seamless event organization and management. It features a user-friendly interface for scheduling, booking, and managing events effectively.
 
+ <img width="943" alt="image" src="1.gif">
+
 ---
 
 ## Prerequisites
