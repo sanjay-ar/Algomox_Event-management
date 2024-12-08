@@ -1,4 +1,4 @@
-# S.S Event Management System - Desktop App
+# Event Management System 
 
 ## Author:
 This project was independently developed by:
